@@ -1,0 +1,43 @@
+html {
+    font-size: 10px; /* px means "pixels": the base font size is now 10 pixels high  */
+    font-family: 'Kaushan Script', cursive; /* this should be the rest of the output you got from Google fonts */
+  }
+
+  h1 {
+    font-size: 60px;
+    text-align: center; /*f this will align the text in the center of the page */
+    margin: 0;
+    padding: 20px 0;
+    color: #004953; /* color midnight green fly eagles fly */
+    text-shadow: 3px 3px 1px black; /* adding black shadow to the text. 3px wide 3px vertical 1px blur */
+  }
+
+  h2, h3, h4 {
+    font-size: 32px;
+  }
+
+  p, li {
+    font-size: 24px;
+    line-height: 2;
+    letter-spacing: 1px;
+  }
+    
+  html {
+  background-color: #004953; /* color midnight green fly eagles fly */
+  }
+
+  body {
+    width: 600px; /* 600px wide box to frame the body of text */
+    margin: 0 auto;
+    background-color: #8D918D; /* gunmetal background color */
+    padding: 0 20px 20px 20px; /* margins top 0px right 20px btm 20px left 20px */
+    border: 5px solid black; /*5px black border */
+   }
+
+    
+
+
+  img {
+    display: block;
+    margin: 0 auto;
+  }
